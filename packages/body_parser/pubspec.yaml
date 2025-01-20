@@ -3,7 +3,7 @@ version: 5.4.1
 description: Parse request bodies and query strings in Dart. Supports JSON, URL-encoded, and multi-part bodies.
 homepage: https://github.com/dart-backend/belatuk-common-utilities/tree/main/packages/body_parser
 environment:
-  sdk: '>=3.5.0 <4.0.0'
+  sdk: '>=3.6.0 <4.0.0'
 dependencies:
   http_parser: ^4.0.0
   belatuk_http_server: ^4.4.0
